@@ -11,3 +11,12 @@ const tvShows = ["My #1 favorite tv show is Vikings", "My #2 favorite tv show is
 for(let i = 0; i < tvShows.length; i++) {
         console.log(tvShows[i])
 } 
+if(i=2500){
+alert("A quarter of the way there.");
+}
+if(i=5000){
+alert("Half way there.");
+}
+if(i=10000){
+alert("The Loop is done.");
+}
